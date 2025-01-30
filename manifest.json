@@ -1,19 +1,19 @@
 {
-  "name": "Konský kvíz",
+  "name": "Konický Kvíz",
   "short_name": "Kvíz",
-  "description": "Testuj své znalosti o koních.",
-  "start_url": "/index.html",
+  "description": "Zábavný kvíz o koních!",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#0044cc",
   "icons": [
     {
-      "src": "icons/icon-192x192.png",
+      "src": "path/to/icon.png",  // Sem dej cestu k ikonce (velikost 192x192 a 512x512)
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512x512.png",
+      "src": "path/to/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
